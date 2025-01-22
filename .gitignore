@@ -1,0 +1,23 @@
+# Build and compiled files
+/bin/
+*.class
+*.jar
+
+# Build tool directories
+/target/
+/build/
+
+# Libraries (if dependencies are managed externally)
+/lib/
+
+# IDE-specific files
+*.iml
+.idea/
+/.classpath
+.project
+.settings/
+/.metadata/
+
+# Sensitive configuration
+/config.properties
+
